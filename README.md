@@ -1,12 +1,2 @@
-- 👋 Hi, I’m @CedricVerdejo
-- 👀 I’m interested in ... Japan
-- 🌱 I’m currently learning ... Automating Server
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-CedricVerdejo/CedricVerdejo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# CPE232_CED
+TEST IF WORKING
